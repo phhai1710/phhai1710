@@ -38,7 +38,7 @@
  <li>Working on the <b>world's leading</b> Arabic streaming platform</li>
  <li><b>Actively participating</b> in daily meetings, sprint planning, and <b>collaborating effectively</b> with the team to provide <b>innovative solutions</b> to challenges</li>
  <li>Develop code and contribute to the implementation of solutions</li>
- <li>Taking responsibility and successfully implementing the EPG feature for the live TV section, resulting in a <b>3 times performance improvement</b> which is a significant success in the MVP phase to <b>gaining official approval</b> to commence the project</li>
+ <li>Making a <b>significant contribution</b> which is a success in the MVP phase to <b>gaining official approval</b> to commence the project.</li>
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
  Mobile Developer
       
  <li>Analyzing requirement and task estimation.</li>
- <li><b>Defined and documented</b> the system architecture.</li>
+ <li><b>Defining and documenting</b> the system architecture.</li>
  <li>Participating in activities of full software development and maintenance in mobile applications.</li>
     </td>
   </tr>
@@ -93,7 +93,7 @@
     <td><b>My responsibilities</b></td>
     <td>
       <li>Participating in daily meetings, sprint planning and collaborate with other team members to deliver product on time.</li>
-      <li>Taking responsibility and successfully implementing the EPG section for the Live TV feature, resulting in a <b>3 times performance improvement</b> which is a significant success in the MVP phase to gaining official approval to commence the project.</li>
+      <li>Taking responsibility and successfully implementing the EPG section for the Live TV feature, resulting in a <b>3 times performance improvement</b> compared with the old existing app which is a significant success in the MVP phase to gaining official approval to commence the project.</li>
       <li>Developing features and contributing to the implementation of solutions, achieving <b>over 65% unit test coverage</b> to ensure robust and reliable software.</li>
     </td>
   </tr>
