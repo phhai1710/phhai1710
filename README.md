@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td><b>Technologies used</b></td>
-    <td>Swift, DRM, RxSwift, MVVM-C, In-app Purchase, UnitTest, Realm</td>
+    <td>Swift, RxSwift, MVVM-C, In-app Purchase, UnitTest, Realm, AirPlay, ChromeCast, DRM</td>
   </tr>
 </table>
 
@@ -133,7 +133,9 @@
     <td><b>My responsibilities</b></td>
     <td>
       <li>Collecting requirements from Project Manager, consult business logic to the client and transfer to technical detail.</li>
-      <li>Investigating and transferring 3rd services to team members(PayPal, FedEx, USPS, ChannelAdvisor,...)</li>
+      <li>Outline the payment flow for Mobile and Backend by using PayPal for process the payment directly between seller and buyer</li>
+      <li>Investigating FedEx/USPS to provide the users shipping services</li>
+      <li>Investigating ChannelAdvisor and prepare mapping structure for syncing items and orders.</li>
       <li>Design the logic and workflow of features throughout the app(E.g. Structure category for the product in order to adapt the mapping feature when syncing from other systems, establish the full flow of an order, linking social account for connecting with user’s friends, robustify the algorithm of user’s feed,...)</li>
       <li>Assigning tasks to 8 members including 6 software engineers, 2 QAs, adopting Agile methodology with 2-week sprints. Achieved >80% sprints completed on-time.</li>
       <li>Setting up CI/CD process.</li>
