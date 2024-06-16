@@ -79,7 +79,7 @@
     <td><b>Description</b></td>
     <td>
       <li>VOD service that provide premium originals, exclusive series and movies, Live TV, Sports & much more.</li>
-      <li>The platform that serves millions active users</li>
+      <li>World's leading Arabic streaming platform that serves millions active users</li>
     </td>
   </tr>
   <tr>
