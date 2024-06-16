@@ -49,7 +49,7 @@
  Project Lead & Senior iOS Developer
       
  <li>Participating in activities of maintenance and develop new features in mobile applications.</li>
- <li>Analyzing requirements, estimating new features and planning sprint scope.</li>
+ <li>Acting as PO, Tech Lead to analyzing requirements, estimating new features and planning sprint scope.</li>
  <li>Managing tasks, team members and review code.</li>
  <li>Taking responsibility of communicating with clients and team members.</li>
  <li>Participating in interview process to look for bright candidates.</li>
@@ -66,7 +66,6 @@
  <li>Analyzing requirement and task estimation.</li>
  <li>Implementing System Architecture Document.</li>
  <li>Participating in activities of full software development and maintenance in mobile applications.</li>
- <li>Review the code of other members of the team.</li>
     </td>
   </tr>
 </table>
@@ -174,8 +173,10 @@ In-app Purchase, SocketIO, Pandas, Elastic search</td>
   <tr>
     <td><b>My responsibilities</b></td>
     <td>
-      <li>Assigning tasks to 2 iOS engineers, adopting Kanban methodology, reviewing PR before merging.</li>
+      <li>Assigning tasks to 2 iOS engineers, adopting Kanban methodology, ensure quality outcome by reviewing PR before merging.</li>
       <li>Implementing video player screen: Subtitle, Autoplay, Preview, Cast via Airplay/ChromeCast, Dynamic UIs.</li>
+      <li>Building modular functionality for easy plug-and-play</li>
+      <li>Creating a base construction to adapt many kinds of views so all screens have the highest modification ability</li>
       <li>Implementing downloading audio/video/collection feature for offline use.</li>
       <li>Implementing In-App Purchase feature.</li>
       <li>Implementing the tvOS app based on the existing iOS app.</li>
