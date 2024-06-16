@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hai Pham</h1>
 <h3 align="center">A passionate iOS Developer from Vietnam</h3>
-<p align="center">Motivated developer with 6+ years of mobile development with an always-growing spirit. Quality and details are the first things for building trust and credibility. Passionate for innovation and new challenges. Skilled at implementing technologies such as Messaging, Calling, Fintech, Multimedia, Social network, and all related domains. I take responsibility of building mobile application, mentoring team members as well as driving product development from planning through execution, QA & distribution stages.</p>
+<p align="center">Motivated developer with 7+ years of mobile development with an always-growing spirit. Quality and details are the first things for building trust and credibility. Passionate for innovation and new challenges. Skilled at implementing technologies such as Messaging, Calling, Fintech, Multimedia, Social network, and all related domains. I take responsibility of building mobile application, mentoring team members as well as driving product development from planning through execution, QA & distribution stages.</p>
 
 <br>
 
