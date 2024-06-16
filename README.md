@@ -35,10 +35,10 @@
       
  Senior iOS Developer
       
- <li>Working on the world's leading Arabic streaming platform</li>
- <li>Actively participating in daily meetings, sprint planning, and collaborating with the team to provide innovative solutions to challenges</li>
+ <li>Working on the <b>world's leading</b> Arabic streaming platform</li>
+ <li><b>Actively participating</b> in daily meetings, sprint planning, and <b>collaborating effectively</b> with the team to provide <b>innovative solutions</b> to challenges</li>
  <li>Develop code and contribute to the implementation of solutions</li>
- <li>Taking responsibility and successfully implementing the EPG feature for the live TV section, resulting in a 3 times performance improvement which is a significant success in the MVP phase to gaining official approval to commence the project</li>
+ <li>Taking responsibility and successfully implementing the EPG feature for the live TV section, resulting in a <b>3 times performance improvement</b> which is a significant success in the MVP phase to <b>gaining official approval</b> to commence the project</li>
     </td>
   </tr>
   <tr>
@@ -48,12 +48,12 @@
       
  Project Lead & Senior iOS Developer
       
- <li>Participating in activities of maintenance and develop new features in mobile applications.</li>
- <li>Acting as PO, Tech Lead to analyzing requirements, estimating new features and planning sprint scope.</li>
- <li>Managing tasks, team members and review code.</li>
- <li>Taking responsibility of communicating with clients and team members.</li>
+ <li>Made a significant contribution to the <b>successful development of 8 projects</b>, directly impacting <b>client satisfaction</b> through the implementation of user-friendly features.</li>
+ <li><b>Acting as PO, Tech Lead</b> to analyzing requirements, estimating new features and planning sprint scope.</li>
+ <li><b>Leading</b> teams, effectively <b>managing</b> tasks and resources, while ensuring high-quality code through code reviews</li>
+ <li>Proactively communicated with clients and team members, <b>building strong relationships</b> and driving project success through effective collaboration</li>
  <li>Participating in interview process to look for bright candidates.</li>
- <li>Preparing knowledge sharing articles to colleagues.</li>
+ <li>Preparing <b>knowledge sharing articles</b> to colleagues.</li>
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
  Mobile Developer
       
  <li>Analyzing requirement and task estimation.</li>
- <li>Implementing System Architecture Document.</li>
+ <li><b>Defined and documented</b> the system architecture.</li>
  <li>Participating in activities of full software development and maintenance in mobile applications.</li>
     </td>
   </tr>
@@ -78,7 +78,7 @@
     <td><b>Description</b></td>
     <td>
       <li>VOD service that provide premium originals, exclusive series and movies, Live TV, Sports & much more.</li>
-      <li>World's leading Arabic streaming platform that serves millions active users</li>
+      <li>World's leading Arabic streaming platform that serves <b>millions active users</b></li>
     </td>
   </tr>
   <tr>
@@ -93,8 +93,8 @@
     <td><b>My responsibilities</b></td>
     <td>
       <li>Participating in daily meetings, sprint planning and collaborate with other team members to deliver product on time.</li>
-      <li>Taking responsibility and successfully implementing the EPG section for the Live TV feature, resulting in a 3 times performance improvement which is a significant success in the MVP phase to gaining official approval to commence the project.</li>
-      <li>Developing features and contributing to the implementation of solutions, achieving over 65% unit test coverage to ensure robust and reliable software.</li>
+      <li>Taking responsibility and successfully implementing the EPG section for the Live TV feature, resulting in a <b>3 times performance improvement</b> which is a significant success in the MVP phase to gaining official approval to commence the project.</li>
+      <li>Developing features and contributing to the implementation of solutions, achieving <b>over 65% unit test coverage</b> to ensure robust and reliable software.</li>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@
     <td><b>Description</b></td>
     <td>
       <li>Community-curated marketplace for golfers to buy, sell, discover, and connect!</li>
-      <li>Reach total more than 20k downloads after 1 year.</li>
+      <li>Reach total more than <b>20k downloads</b> after 1 year.</li>
     </td>
   </tr>
   <tr>
@@ -131,12 +131,12 @@
   <tr>
     <td><b>My responsibilities</b></td>
     <td>
-      <li>Collecting requirements from Project Manager, consult business logic to the client and transfer to technical detail.</li>
-      <li>Outline the payment flow for Mobile and Backend by using PayPal for process the payment directly between seller and buyer</li>
-      <li>Investigating FedEx/USPS to provide the users shipping services</li>
-      <li>Investigating ChannelAdvisor and prepare mapping structure for syncing items and orders.</li>
-      <li>Design the logic and workflow of features throughout the app(E.g. Structure category for the product in order to adapt the mapping feature when syncing from other systems, establish the full flow of an order, linking social account for connecting with user’s friends, robustify the algorithm of user’s feed,...)</li>
-      <li>Assigning tasks to 8 members including 6 software engineers, 2 QAs, adopting Agile methodology with 2-week sprints. Achieved >80% sprints completed on-time.</li>
+      <li>Collecting requirements from Project Manager, <b>consult business logic</b> to the client and transfer to technical detail.</li>
+      <li><b>Outline the payment flow</b> for Mobile and Backend by using PayPal for process the payment directly between seller and buyer</li>
+      <li><b>Investigating FedEx/USPS</b> to provide the users shipping services</li>
+      <li><b>Investigating ChannelAdvisor and prepare mapping structure</b> for syncing items and orders.</li>
+      <li><b>Design the logic and workflow</b> of features throughout the app(E.g. Structure category for the product in order to adapt the mapping feature when syncing from other systems, establish the full flow of an order, linking social account for connecting with user’s friends, robustify the algorithm of user’s feed,...)</li>
+      <li>Assigning tasks to 8 members including 6 software engineers, 2 QAs, adopting Agile methodology with 2-week sprints. Achieved <b>>80%</b> sprints completed on-time.</li>
       <li>Setting up CI/CD process.</li>
     </td>
   </tr>
@@ -159,7 +159,7 @@ In-app Purchase, SocketIO, Pandas, Elastic search</td>
     <td><b>Description</b></td>
     <td>
       <li>A platform for creating a customized app design and structure to immerse the audience with customers' look and feel, including all the niche video app features their user ever needs. The video download process can be integrated and subscribed from everywhere with the simplest step.</li>
-      <li>Published products for more than 200 clients and millions of their audiences.</li>
+      <li>Published products for more than <b>200 clients and millions</b> of their audiences.</li>
     </td>
   </tr>
   <tr>
@@ -175,8 +175,8 @@ In-app Purchase, SocketIO, Pandas, Elastic search</td>
     <td>
       <li>Assigning tasks to 2 iOS engineers, adopting Kanban methodology, ensure quality outcome by reviewing PR before merging.</li>
       <li>Implementing video player screen: Subtitle, Autoplay, Preview, Cast via Airplay/ChromeCast, Dynamic UIs.</li>
-      <li>Building modular functionality for easy plug-and-play</li>
-      <li>Creating a base construction to adapt many kinds of views so all screens have the highest modification ability</li>
+      <li>Building <b>modular functionality</b> for easy plug-and-play</li>
+      <li>Creating a base construction to adapt many kinds of views so all screens have the <b>highest modification ability</b></li>
       <li>Implementing downloading audio/video/collection feature for offline use.</li>
       <li>Implementing In-App Purchase feature.</li>
       <li>Implementing the tvOS app based on the existing iOS app.</li>
@@ -204,7 +204,7 @@ RxSwift, Sentry, Crashlytics</td>
       <li>Winner, Best Digital Wallet Fintech Australia 2018.</li>
       <li>Winner, Fintech Rising Star 2018.</li>
       <li>App of the Month in Money Magazine.</li>
-      <li>Reach total more than 30k downloads after 2 years.</li>
+      <li>Reach total more than <b>30k downloads</b> after 2 years.</li>
     </td>
   </tr>
   <tr>
@@ -218,7 +218,7 @@ RxSwift, Sentry, Crashlytics</td>
   <tr>
     <td><b>My responsibilities</b></td>
     <td>
-      <li>Collecting business requirements from 2 Product Managers and translate to technical details, adopting Agile methodology with 2-week sprints. Achieved >90% sprints completed on-time.</li>
+      <li>Collecting business requirements from 2 Product Managers and translate to technical details, adopting Agile methodology with 2-week sprints. Achieved <b>>90%</b> sprints completed on-time.</li>
       <li>Integrating with web-service, socket, payment method(Yodlee, Stripe).</li>
       <li>Implementing the BlueBird feature so users can use BLE to discover nearby friends.</li>
       <li>Implementing the Finsight feature to track social spending and budget base on the bank transaction.</li>
@@ -254,8 +254,8 @@ Sign in with Apple, Facebook SDK, Realm, Google Maps API</td>
   <tr>
     <td><b>My responsibilities</b></td>
     <td>
-      <li>Implementing Chat module (send messages, create group, invite members, update group members, update group name and all of the screen relate to it) for both Android and iOS.</li>
-      <li>Implementing video/voice call by using the WebRTC framework on Android and iOS.</li>
+      <li>Implementing Chat module by using <b>XMPP</b> (send messages, create group, invite members, update group members, update group name and all of the screen relate to it) for both Android and iOS.</li>
+      <li>Implementing video/voice call by using the <b>WebRTC framework</b> on Android and iOS.</li>
       <li>Implementing video streaming for Android.</li>
     </td>
   </tr>
