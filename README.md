@@ -168,7 +168,7 @@ In-app Purchase, SocketIO, Pandas, Elastic search</td>
   </tr>
   <tr>
     <td><b>My position</b></td>
-    <td>iOS Project Lead</td>
+    <td>iOS Project Lead + Senior iOS Developer</td>
   </tr>
   <tr>
     <td><b>My responsibilities</b></td>
@@ -213,7 +213,7 @@ RxSwift, Sentry, Crashlytics</td>
   </tr>
   <tr>
     <td><b>My position</b></td>
-    <td>iOS Project Lead</td>
+    <td>iOS Project Lead + Senior iOS Developer</td>
   </tr>
   <tr>
     <td><b>My responsibilities</b></td>
