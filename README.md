@@ -103,7 +103,51 @@
   </tr>
 </table>
 
-<h4 align="left">2. MULLIE Golf</h4>
+<h4 align="left">2. Finch</h4>
+
+<table>
+  <tr>
+    <td><b>Customer</b></td>
+    <td>Finch Australia</td>
+  </tr>
+  <tr>
+    <td><b>Description</b></td>
+    <td>
+      <li>Personal finance app that lets the user pay friends, share group bills. Finch also helps to track social spending and budget based on bank transaction.</li>
+      <li>Winner, Best Personal Finance App 2018.</li>
+      <li>Winner, Best Digital Wallet Fintech Australia 2018.</li>
+      <li>Winner, Fintech Rising Star 2018.</li>
+      <li>App of the Month in Money Magazine.</li>
+      <li>Reach total more than <b>30k downloads</b> after 2 years.</li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Team size</b></td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td><b>My position</b></td>
+    <td>iOS Project Lead + Senior iOS Developer</td>
+  </tr>
+  <tr>
+    <td><b>My responsibilities</b></td>
+    <td>
+      <li>Collecting business requirements from 2 Product Managers and translate to technical details, adopting Agile methodology with 2-week sprints. Achieved <b>>90%</b> sprints completed on-time.</li>
+      <li>Integrating with web-service, socket, payment method(Yodlee, Stripe).</li>
+      <li>Implementing the BlueBird feature so users can use BLE to discover nearby friends.</li>
+      <li>Implementing the Finsight feature to track social spending and budget base on the bank transaction.</li>
+      <li>Implementing the Referral, KYC feature</li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Technologies used</b></td>
+    <td>Yodlee, Stripe, Bluetooth Low Energy, Crashlytics, BranchIO, CleverTap,
+Sign in with Apple, Facebook SDK, Realm, Google Maps API</td>
+  </tr>
+</table>
+
+
+<h4 align="left">3. MULLIE Golf</h4>
 
 <table>
   <tr>
@@ -148,7 +192,7 @@ In-app Purchase, SocketIO, Pandas, Elastic search</td>
   </tr>
 </table>
 
-<h4 align="left">3. VidAPP</h4>
+<h4 align="left">4. VidAPP</h4>
 
 <table>
   <tr>
@@ -186,49 +230,6 @@ In-app Purchase, SocketIO, Pandas, Elastic search</td>
     <td><b>Technologies used</b></td>
     <td>In-App Purchase, AirPlay, Chromecast, OneSignal, Keychain, Realm,
 RxSwift, Sentry, Crashlytics</td>
-  </tr>
-</table>
-
-<h4 align="left">4. Finch</h4>
-
-<table>
-  <tr>
-    <td><b>Customer</b></td>
-    <td>Finch</td>
-  </tr>
-  <tr>
-    <td><b>Description</b></td>
-    <td>
-      <li>Personal finance app that lets the user pay friends, share group bills. Finch also helps to track social spending and budget based on bank transaction.</li>
-      <li>Winner, Best Personal Finance App 2018.</li>
-      <li>Winner, Best Digital Wallet Fintech Australia 2018.</li>
-      <li>Winner, Fintech Rising Star 2018.</li>
-      <li>App of the Month in Money Magazine.</li>
-      <li>Reach total more than <b>30k downloads</b> after 2 years.</li>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Team size</b></td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td><b>My position</b></td>
-    <td>iOS Project Lead + Senior iOS Developer</td>
-  </tr>
-  <tr>
-    <td><b>My responsibilities</b></td>
-    <td>
-      <li>Collecting business requirements from 2 Product Managers and translate to technical details, adopting Agile methodology with 2-week sprints. Achieved <b>>90%</b> sprints completed on-time.</li>
-      <li>Integrating with web-service, socket, payment method(Yodlee, Stripe).</li>
-      <li>Implementing the BlueBird feature so users can use BLE to discover nearby friends.</li>
-      <li>Implementing the Finsight feature to track social spending and budget base on the bank transaction.</li>
-      <li>Implementing the Referral, KYC feature</li>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Technologies used</b></td>
-    <td>Yodlee, Stripe, Bluetooth Low Energy, Crashlytics, BranchIO, CleverTap,
-Sign in with Apple, Facebook SDK, Realm, Google Maps API</td>
   </tr>
 </table>
 
